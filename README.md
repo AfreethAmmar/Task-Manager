@@ -3,7 +3,7 @@
 A clean, **colorful**, and responsive Task Manager built with **Laravel**, **Blade**, **Tailwind CSS**, and **Vite**.  
 Create, view, edit, and delete tasks with a polished UI and a friendly UX.
 
-> After users register, they are redirected to **Login** (no auto-login).  
+> After users register, they are redirected to **Login** .  
 > After login, they land on **Tasks**.
 
 ---
